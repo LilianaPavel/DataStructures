@@ -1,1 +1,2 @@
-"# DataStructures" 
+- Data structures implementation
+- Small algorithms
